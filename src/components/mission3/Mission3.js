@@ -19,7 +19,7 @@ const Mission3 = () => {
                     </div>
 
                     <div className={styles.left}>
-                        <img src={Image} alt="About Us image" />
+                        <img src={Image} alt="About Us" />
                     </div>
                 </div>
             </div>

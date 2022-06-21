@@ -1,6 +1,5 @@
 import React  from 'react';
 import styles from './footer.module.css';
-import ReactDOM from 'react-dom';
 import FooterLogo from '../../img/Footer Logo.png';
 import FooterFacebook from '../../img/facebook-f.png';
 import FooterTwitter from '../../img/twitter (1).png';
@@ -40,8 +39,8 @@ const Footer = () => {
                 <div className={styles.rightFooter}>
                     <h5>Informations</h5>
                     <ul>
-                        <li><a href="">Terms & conditions</a></li>
-                        <li><a href="">Privacy policy</a></li>
+                        <li><a href="/">Terms & conditions</a></li>
+                        <li><a href="/">Privacy policy</a></li>
                         <li><a href="/blog">Blog</a></li>
                         <li><a href="/contact">Contact</a></li>
                     </ul>
@@ -53,9 +52,9 @@ const Footer = () => {
                 <div className={styles.mediaIcon}>
                     <a href="https://www.facebook.com/bachasoftware"><img src={FooterFacebook} alt="facebook icon"/></a>
                     <a href="https://twitter.com/BacHaSoftware"><img src={FooterTwitter} alt="twitter-icon"/></a>
-                    <a href=""><img src={FooterLinkedin} alt="linkedin-icon"/></a>
-                    <a href=""><img src={FooterYoutube} alt="youtube-icon"/></a>
-                    <a href=""><img src={FooterInstagram} alt="instagram-icon"/></a>
+                    <a href="https://www.facebook.com/bachasoftware"><img src={FooterLinkedin} alt="linkedin-icon"/></a>
+                    <a href="https://www.facebook.com/bachasoftware"><img src={FooterYoutube} alt="youtube-icon"/></a>
+                    <a href="https://www.facebook.com/bachasoftware"><img src={FooterInstagram} alt="instagram-icon"/></a>
                 </div>
                 <div className={styles.copyright}>
                     <p>&copy; AltDesain Studio 2021 - All right reserved</p>

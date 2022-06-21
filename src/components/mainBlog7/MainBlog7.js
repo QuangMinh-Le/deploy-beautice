@@ -104,10 +104,10 @@ const MainBlog7 = () => {
                         <div className={styles.categories}>
                             <h3>Categories</h3>
                             <div className={styles.category}>
-                                <a href=""><p>Consultation</p></a>
-                                <a href=""><p>Beauty</p></a>
-                                <a href=""><p>Treatment</p></a>
-                                <a href=""><p>News</p></a>
+                                <a href="/blog"><p>Consultation</p></a>
+                                <a href="/blog"><p>Beauty</p></a>
+                                <a href="/blog"><p>Treatment</p></a>
+                                <a href="/blog"><p>News</p></a>
                             </div>
                         </div>
 

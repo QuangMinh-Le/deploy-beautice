@@ -3,8 +3,6 @@ import styles from './Background.module.css';
 import SlideBackground from '../../img/Slide Background.png';
 import BackgroundBubble from '../../img/Background Bubble.png';
 import BackgroundBubble1 from '../../img/Background Bubble (1).png';
-import FooterBackground from '../../img/Footer BG 1.png';
-import FooterBackground1 from '../../img/Footer BG 2.png';
 
 
 const Background = () => (

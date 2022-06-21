@@ -10,7 +10,7 @@ const FAQ4 = () => {
     const [dropBtn4, setDropBtn4] = useState(false);
 
     const dropInfo1 = () => {
-        if (dropBtn1 == false) {
+        if (dropBtn1 === false) {
             setDropBtn1(true);
         } else {
             setDropBtn1(false);
@@ -18,7 +18,7 @@ const FAQ4 = () => {
     }
 
     const dropInfo2 = () => {
-        if (dropBtn2 == false) {
+        if (dropBtn2 === false) {
             setDropBtn2(true);
         } else {
             setDropBtn2(false);
@@ -26,7 +26,7 @@ const FAQ4 = () => {
     }
 
     const dropInfo3 = () => {
-        if (dropBtn3 == false) {
+        if (dropBtn3 === false) {
             setDropBtn3(true);
         } else {
             setDropBtn3(false);
@@ -34,7 +34,7 @@ const FAQ4 = () => {
     }
 
     const dropInfo4 = () => {
-        if (dropBtn4 == false) {
+        if (dropBtn4 === false) {
             setDropBtn4(true);
         } else {
             setDropBtn4(false);

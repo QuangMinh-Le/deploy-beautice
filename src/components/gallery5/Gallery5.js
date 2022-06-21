@@ -27,19 +27,19 @@ const Gallery5 = () => {
                     </div>
                     <div className={styles.images}>
                         <div className={styles.row}>
-                            <img src={Image1_1} alt="Image Row1-1" />
-                            <img src={Image1_2} alt="Image Row1-2" />
-                            <img src={Image1_3} alt="Image Row1-3" />
+                            <img src={Image1_1} alt="Row1-1" />
+                            <img src={Image1_2} alt="Row1-2" />
+                            <img src={Image1_3} alt="Row1-3" />
                         </div>
                         <div className={styles.row}>
-                            <img src={Image2_1} alt="Image Row2-1" />
-                            <img src={Image2_2} alt="Image Row2-2" />
-                            <img src={Image2_3} alt="Image Row2-3" />
+                            <img src={Image2_1} alt="Row2-1" />
+                            <img src={Image2_2} alt="Row2-2" />
+                            <img src={Image2_3} alt="Row2-3" />
                         </div>
                         <div className={styles.row}>
-                            <img src={Image3_1} alt="Image Row3-1" />
-                            <img src={Image3_2} alt="Image Row3-2" />
-                            <img src={Image3_3} alt="Image Row3-3" />
+                            <img src={Image3_1} alt="Row3-1" />
+                            <img src={Image3_2} alt="Row3-2" />
+                            <img src={Image3_3} alt="Row3-3" />
                         </div>
                     </div>
                     <div className={styles.subContent}>

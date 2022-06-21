@@ -25,7 +25,7 @@ const ToTopButton = () => {
     return (
         <div>
             <div className="toTop">
-                <a onClick={toTopFunction} className = {toTop ? styles.toTopButtonBlock: styles.toTopButtonNone}><img src={toTopIcon} alt="To Top icon"/></a>
+                <button onClick={toTopFunction} className = {toTop ? styles.toTopButtonBlock: styles.toTopButtonNone}><img src={toTopIcon} alt="To Top icon"/></button>
             </div>
         </div>
     );

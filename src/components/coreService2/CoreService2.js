@@ -18,28 +18,28 @@ const CoreService2 = () => {
                     <div className={styles.boxes}>
                         <div className={styles.box}>
                             <div className={styles.wrapper}>
-                                <img src={Image1} alt="Service 1 - Image"/>
+                                <img src={Image1} alt="Service 1"/>
                                 <h4>Beauty consultation</h4>
                                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing.</p>
-                                <a href="">Learn more &gt;&gt;</a>
+                                <a href="/blog">Learn more &gt;&gt;</a>
                             </div>
                         </div>
 
                         <div className={styles.box}>
                             <div className={styles.wrapper}>
-                                <img src={Image2} alt="Service 2 - Image"/>
+                                <img src={Image2} alt="Service 2"/>
                                 <h4>Skin treatments</h4>
                                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing.</p>
-                                <a href="">Learn more &gt;&gt;</a>
+                                <a href="/blog">Learn more &gt;&gt;</a>
                             </div>
                         </div>
 
                         <div className={styles.box}>
                             <div className={styles.wrapper}>
-                                <img src={Image3} alt="Service 3 - Image"/>
+                                <img src={Image3} alt="Service 3"/>
                                 <h4>Beauty product</h4>
                                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing.</p>
-                                <a href="">Learn more &gt;&gt;</a>
+                                <a href="/blog">Learn more &gt;&gt;</a>
                             </div>
                         </div>
                     </div>

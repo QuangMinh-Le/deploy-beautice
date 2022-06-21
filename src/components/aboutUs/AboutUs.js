@@ -25,7 +25,7 @@ const AboutUs = ()=> (
                     </div>
                 </div>
                 <div className={styles.imageAboutUs}>
-                    <img src={ImageAB} alt="Image 2"/>
+                    <img src={ImageAB} alt="About Us 2"/>
                 </div>
             </div>
     </div>

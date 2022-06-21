@@ -8,7 +8,7 @@ const Vision3 = () => {
             <div className={styles.container}>
                 <div className={styles.wrapper}>
                     <div className={styles.left}>
-                        <img src={Image} alt="About Us image" />
+                        <img src={Image} alt="About Us" />
                     </div>
                     <div className={styles.right}>
                         <div className={styles.content}>

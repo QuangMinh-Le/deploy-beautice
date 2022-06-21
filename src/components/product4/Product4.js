@@ -8,14 +8,14 @@ const Product4 = () => {
             <div className={styles.container}>
                 <div className={styles.wrapper}>
                     <div className={styles.left}>
-                        <img src={Image} alt="Product image" />
+                        <img src={Image} alt="Product" />
                     </div>
                     <div className={styles.right}>
                         <div className={styles.content}>
                             <h2>Beauty Product</h2>
                             <h3>We present quality beauty products</h3>
                             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Elit, quam suscipit purus donec amet. Egestas volutpat facilisi eu libero.</p>
-                            <a href="">Make an appoinment <span>&gt;&gt;</span></a>
+                            <a href="/contact">Make an appoinment <span>&gt;&gt;</span></a>
                         </div>
                     </div>
                 </div>

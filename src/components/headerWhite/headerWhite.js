@@ -9,7 +9,7 @@ const HeaderWhite = () => {
     const [checkBox, setCheckBox] = useState(true);
 
     const changeCheckBox = () => {
-        if (checkBox == false) {
+        if (checkBox === false) {
             setCheckBox(true);
         } else {
             setCheckBox(false);

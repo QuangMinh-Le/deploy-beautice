@@ -20,13 +20,13 @@ const MainSlider = () => (
                     </div>
                 </div>
                 <div className={styles.frame2}>
-                    <img src={MainSliderImage} alt="Picture 1"/>
+                    <img src={MainSliderImage} alt="Slider 1"/>
                 </div>
             </div>
             <div className={styles.slidesButton}>
-                <div><a href=""></a></div>
-                <div><a href=""></a></div>
-                <div><a href=""></a></div>
+                <div></div>
+                <div></div>
+                <div></div>
             </div>
         </div>
     </div>
