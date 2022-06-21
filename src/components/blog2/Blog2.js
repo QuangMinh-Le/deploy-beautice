@@ -21,7 +21,7 @@ const Blog2 = () => {
                                 <img src={Image1} alt="Blog 1"/>
                                 <h4>How much does a consultation cost at our clinic?</h4>
                                 <p>LA wonderful serenity has taken possession of my entire soul, like these sweet mornings ...</p>
-                                <a href="">Learn more &gt;&gt;</a>
+                                <a href="/blog">Learn more &gt;&gt;</a>
                             </div>
                         </div>
 
@@ -30,7 +30,7 @@ const Blog2 = () => {
                                 <img src={Image2} alt="Blog 2"/>
                                 <h4>Watch out! don't choose the wrong beauty product</h4>
                                 <p>A wonderful serenity has taken possession of my entire soul, like these sweet mornings ...</p>
-                                <a href="">Learn more &gt;&gt;</a>
+                                <a href="/blog">Learn more &gt;&gt;</a>
                             </div>
                         </div>
 
@@ -39,7 +39,7 @@ const Blog2 = () => {
                                 <img src={Image3} alt="Blog 3"/>
                                 <h4>About skin care you need to know</h4>
                                 <p>A wonderful serenity has taken possession of my entire soul, like these sweet mornings ...</p>
-                                <a href="">Learn more &gt;&gt;</a>
+                                <a href="/blog">Learn more &gt;&gt;</a>
                             </div>
                         </div>
                     </div>
