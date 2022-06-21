@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/deploy-beautice/static/css/main.9f21bc49.css",
-    "main.js": "/deploy-beautice/static/js/main.1525f086.js",
+    "main.css": "/deploy-beautice/static/css/main.5c752442.css",
+    "main.js": "/deploy-beautice/static/js/main.7a275478.js",
     "static/media/About-Slogan-Image.png": "/deploy-beautice/static/media/About-Slogan-Image.6a4b6312d4fe5d01d10c.png",
     "static/media/Team-Slogan-Image.png": "/deploy-beautice/static/media/Team-Slogan-Image.02ab70fa32612667cc4c.png",
     "static/media/Service-Slogan-Image.png": "/deploy-beautice/static/media/Service-Slogan-Image.f5033063efed200577e9.png",
@@ -65,11 +65,11 @@
     "static/media/Main Logo.svg": "/deploy-beautice/static/media/Main Logo.6e304e92dbc883129210d16effd7d07c.svg",
     "index.html": "/deploy-beautice/index.html",
     "static/media/Service-FAQ-DropSymbol.svg": "/deploy-beautice/static/media/Service-FAQ-DropSymbol.20a4ea3f883963576e573c30620a17fb.svg",
-    "main.9f21bc49.css.map": "/deploy-beautice/static/css/main.9f21bc49.css.map",
-    "main.1525f086.js.map": "/deploy-beautice/static/js/main.1525f086.js.map"
+    "main.5c752442.css.map": "/deploy-beautice/static/css/main.5c752442.css.map",
+    "main.7a275478.js.map": "/deploy-beautice/static/js/main.7a275478.js.map"
   },
   "entrypoints": [
-    "static/css/main.9f21bc49.css",
-    "static/js/main.1525f086.js"
+    "static/css/main.5c752442.css",
+    "static/js/main.7a275478.js"
   ]
 }
