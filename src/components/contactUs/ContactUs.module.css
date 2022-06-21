@@ -337,9 +337,9 @@ h1,h2,h3,h4,h5,h6, p{
     }
     
     .infoContactUs button{
-        width: 220px;
+        width: 170px;
         height: 50px;
-        font-size: 14px;
+        font-size: 12px;
         border-radius: 40px;
     }
     
